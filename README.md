@@ -52,7 +52,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Manish-Let-It-Be&layout=compact&theme=dracula" height="150"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Python,HTML"/>
