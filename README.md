@@ -68,9 +68,14 @@
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<!-- Check Out and Profile Views  -->
-<div align = "center">
+<!-- Profile Views  -->
+<div align = "left">
 <br>
+<a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=Manish-Let-It-Be&label=Profile%20Views&color=5&icon=8&pretty=true" /> </a>
+<!-- Old Check Out & Profile Views  -->
+<!--  
 <a href="https://github.com/Manish-Let-It-Be"><img src="https://img.shields.io/badge/Check_out_my-GitHub-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=Manish-Let-It-Be&label=Profile%20Views&color=orange&style=for-the-badge" alt="Manish-Let-It-Be" />
+<img src="https://komarev.com/ghpvc/?username=Manish-Let-It-Be&label=Profile%20Views&color=orange&style=for-the-badge" alt="Manish-Let-It-Be" /> 
+-->
 </div>
+
