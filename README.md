@@ -54,9 +54,11 @@
 </p>
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&hide=jupyter%20notebook,Python,HTML"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&include_all_commits=true&count_private=true&hide=jupyter%20notebook,Python,HTML"/>
   </a>
 </p>
+
+
 
 # 📈Leetcode Stats
 ![](https://leetcard.jacoblin.cool/manishxuranium?ext=heatmap)
