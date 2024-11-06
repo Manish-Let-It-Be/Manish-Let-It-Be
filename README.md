@@ -82,3 +82,17 @@
 <a href="https://github.com/Manish-Let-It-Be"><img src="https://img.shields.io/badge/Check_out_my-GitHub-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
 </div>
 
+<!-- EXTRA UTILITIES -->
+
+<!--
+
+ ## 🤣Joke of the day
+ ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+## 👀 &nbsp;Profile Vist
+<img src="https://profile-counter.glitch.me/%7BManish-Let-It-Be%7D/count.svg">
+ 
+
+## Badges
+[![@mohitkumar's Holopin board](https://holopin.io/api/user/board?user=@manishletitbe)](https://holopin.io/@manishletitbe)
+ -->
