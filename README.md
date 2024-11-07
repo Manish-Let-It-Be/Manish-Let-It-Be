@@ -1,7 +1,7 @@
- <!-- Banner  -->
+<!-- Banner  -->
 ![My GIF](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <br>
- <!-- Typing Text   -->
+<!-- Typing Text   -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=I+am+a+Student%2C+Developer%2C+Coder+and+Love+to+Connect+With+Peoples+%E2%9D%A4%EF%B8%8F](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi%2C+I'm+Manish+%F0%9F%91%8B">
 </p>
