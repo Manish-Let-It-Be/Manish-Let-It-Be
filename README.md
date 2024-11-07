@@ -43,6 +43,9 @@
 
 
 # 📊 GitHub Stats
+<!--
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)
+-->
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=Manish-Let-It-Be&theme=dracula&show_icons=true" height="150"/>
