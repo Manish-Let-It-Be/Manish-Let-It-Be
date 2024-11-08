@@ -20,7 +20,7 @@
 - 🌱 I’m Currently Studying **Python**    
 - 👯 I’m Looking To Collaborate On **AI Based Projects**    
 - 💬 Ask me about **C, MS Office**    
-- 📧 Reach Me: **m4manishp4prasad@gmail.com**
+<!--- 📧 Reach Me: **m4manishp4prasad@gmail.com**-->
 
 
 <!-- <h3 align="left">Connect with me:</h3>
@@ -40,6 +40,13 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%2300B140.svg?style=for-the-badge&logo=android&logoColor=white)
+
+
+# 🤝 Connect
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:m4manishp4prasad@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/manish_let_it_be)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/manish-prasad-let-it-be)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/AchaaBachaa/)
 
 
 # 📊 GitHub Stats
