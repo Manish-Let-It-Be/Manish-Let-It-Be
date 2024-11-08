@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/manishxuranium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishxuranium" height="30" width="40" /></a>
 </p> -->
 
-##💻 Tech Stack
+## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -42,14 +42,14 @@
 ![Android](https://img.shields.io/badge/Android-%2300B140.svg?style=for-the-badge&logo=android&logoColor=white)
 
 
-##🤝 Connect
+## 🤝 Connect
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:m4manishp4prasad@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/manish_let_it_be)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-prasad-let-it-be/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/AchaaBachaa/)
 
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)
 -->
@@ -70,15 +70,15 @@
 
 
 
-##📈Leetcode Stats
+## 📈Leetcode Stats
 ![](https://leetcard.jacoblin.cool/manishxuranium?ext=heatmap)
 
 
-##🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manish-Let-It-Be&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-##✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Profile Views  -->
@@ -96,13 +96,13 @@
 
 <!--
 
- ## 🤣Joke of the day
+ # 🤣Joke of the day
  ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 👀 &nbsp;Profile Vist
+# 👀 &nbsp;Profile Vist
 <img src="https://profile-counter.glitch.me/%7BManish-Let-It-Be%7D/count.svg">
  
 
-## Badges
+# Badges
 [![@mohitkumar's Holopin board](https://holopin.io/api/user/board?user=@manishletitbe)](https://holopin.io/@manishletitbe)
  -->
