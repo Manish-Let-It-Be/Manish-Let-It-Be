@@ -28,7 +28,7 @@
 <a href="https://www.leetcode.com/manishxuranium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishxuranium" height="30" width="40" /></a>
 </p> -->
 
-<h2>💻 Tech Stack</h2>
+##💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -42,14 +42,14 @@
 ![Android](https://img.shields.io/badge/Android-%2300B140.svg?style=for-the-badge&logo=android&logoColor=white)
 
 
-<h2>🤝 Connect</h2>
+##🤝 Connect
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:m4manishp4prasad@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/manish_let_it_be)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-prasad-let-it-be/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/AchaaBachaa/)
 
 
-<h2>📊 GitHub Stats</h2>
+##📊 GitHub Stats
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)
 -->
@@ -70,15 +70,15 @@
 
 
 
-<h2>📈Leetcode Stats</h2>
+##📈Leetcode Stats
 ![](https://leetcard.jacoblin.cool/manishxuranium?ext=heatmap)
 
 
-<h2>🏆 GitHub Trophies</h2>
+##🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Manish-Let-It-Be&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<h2>✍️ Random Dev Quote</h2>
+##✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Profile Views  -->
