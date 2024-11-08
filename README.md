@@ -50,11 +50,11 @@
 
 
 ## 📊 GitHub Stats
- <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)
 <p align="center">
-  <a href="https://github.com/Manish-Let-It-Be">
+<!--   <a href="https://github.com/Manish-Let-It-Be">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=Manish-Let-It-Be&theme=dracula&show_icons=true" height="150"/>
-  </a>
+  </a> -->
   &nbsp; &nbsp; <!-- Adds space between the images -->
   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://github-readme-stats.vercel.app/api?username=Manish-Let-It-Be&layout=compact&theme=dracula" height="150"/>
