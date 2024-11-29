@@ -51,11 +51,13 @@
 
 ## 📊 GitHub Stats
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)-->
+<!--
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="150"/>
   </a>
   &nbsp; &nbsp; <!-- Adds space between the images -->
+  <!--
   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://github-readme-stats.vercel.app/api?username=Manish-Let-It-Be&layout=compact&theme=dracula" height="150"/>
   </a>
@@ -65,6 +67,29 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&include_all_commits=true&count_private=true&hide=jupyter%20notebook,Python,HTML"/>
   </a>
 </p>
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Let-It-Be&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<a href="https://github.com/Manish-Let-It-Be/github-stats">
+
+-->
+<p align="center">
+  <a href="https://github.com/Manish-Let-It-Be">
+    <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="150"/>
+  </a>
+  &nbsp; &nbsp; <!-- Adds space between the images -->
+  <a href="https://github.com/Manish-Let-It-Be">
+    <img src="https://github-readme-stats.vercel.app/api?username=Manish-Let-It-Be&layout=compact&theme=dracula" height="150"/>
+  </a>
+  &nbsp; &nbsp; <!-- Adds space between the images -->
+  <a href="https://github.com/Manish-Let-It-Be">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&include_all_commits=true&count_private=true&hide=jupyter%20notebook,Python,HTML"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Let-It-Be&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+</p>
+
 
 
 
@@ -89,6 +114,19 @@
 <br>
 <a href="https://github.com/Manish-Let-It-Be"><img src="https://img.shields.io/badge/Check_out_my-GitHub-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
 </div>
+
+
+### 🐍 Contribution snake
+
+![Snake animation](https://raw.githubusercontent.com/{Manish-Let-It-Be}/{Manish-Let-It-Be}/output/github-contribution-grid-snake-dark.svg)
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 <!-- EXTRA UTILITIES -->
 
