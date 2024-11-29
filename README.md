@@ -115,11 +115,9 @@
 <a href="https://github.com/Manish-Let-It-Be"><img src="https://img.shields.io/badge/Check_out_my-GitHub-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
 </div>
 
-
+<!--
 ### 🐍 Contribution snake
 
-![Snake animation](https://raw.githubusercontent.com/{Manish-Let-It-Be}/{Manish-Let-It-Be}/output/github-contribution-grid-snake-dark.svg)
-<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
