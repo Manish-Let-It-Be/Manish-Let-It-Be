@@ -82,7 +82,7 @@
   </a>
   &nbsp; &nbsp; <!-- Adds space between the images -->
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&include_all_commits=true&count_private=true&hide=jupyter%20notebook"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&include_all_commits=true&count_private=true&hide=jupyter%20notebook",Python />
   </a>
 </p>
 
