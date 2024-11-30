@@ -48,7 +48,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-prasad-let-it-be/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/AchaaBachaa/)
 
-
 ## 📊 GitHub Stats
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)-->
 <!--
@@ -82,7 +81,7 @@
   </a>
   &nbsp; &nbsp; <!-- Adds space between the images -->
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&langs_count=10&include_all_commits=true&count_private=true&hide=jupyter%20notebook"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
