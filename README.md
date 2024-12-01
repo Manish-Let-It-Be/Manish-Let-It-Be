@@ -76,12 +76,12 @@
     <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="150"/>
   </a>
   &nbsp; &nbsp; <!-- Adds space between the images -->
-  <a href="https://github.com/Manish-Let-It-Be">
+<!--   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://github-readme-stats.vercel.app/api?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
   </a>
-  &nbsp; &nbsp; <!-- Adds space between the images -->
+  &nbsp; &nbsp; <!-- Adds space between the images --> 
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
   </a>
 </p>
 
