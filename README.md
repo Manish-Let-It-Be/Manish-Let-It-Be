@@ -49,7 +49,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/AchaaBachaa/)
 
 ## 📊 GitHub Stats
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Manish-Let-It-Be&theme=dracula)](https://git.io/streak-stats)
 <!--
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
@@ -72,19 +72,22 @@
 
 -->
 
-<p align="center">
+<p align="center"> 
+<a href="https://git.io/streak-stats">
+ <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="180" />
+</a>
+ &nbsp; &nbsp; 
+ <!--
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="150"/>
-  </a>
-  &nbsp; &nbsp; <!-- Adds space between the images -->
-<!--   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://github-readme-stats.vercel.app/api?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
   </a>
-  &nbsp; &nbsp; <!-- Adds space between the images --> 
+ -->
+  &nbsp; &nbsp;
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=false&count_private=false" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=false&count_private=false" height="180"/>
   </a>
 </p>
+
 
 <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Manish-Let-It-Be&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
@@ -94,7 +97,14 @@
 
 
 ## 📈Leetcode Stats
+<!--
 ![](https://leetcard.jacoblin.cool/manishxuranium?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manishxuranium?theme=wtf&font=Caveat%20Brush&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap)
+-->
+<p align="center">
+  <img width="830" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="260"/>
+</p>
 
 
 ## 🏆 GitHub Trophies
