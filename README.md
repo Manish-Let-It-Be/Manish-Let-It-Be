@@ -81,7 +81,7 @@
   </a>
   &nbsp; &nbsp; <!-- Adds space between the images --> 
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=false&count_private=false" height="150"/>
   </a>
 </p>
 
