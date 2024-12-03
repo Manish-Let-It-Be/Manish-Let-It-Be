@@ -1,4 +1,4 @@
-   <!-- Banner  -->
+ <!-- Banner  -->
 ![My GIF](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <br>
  <!-- Typing Text   -->
@@ -73,7 +73,7 @@
 -->
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="150"/>
+    <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be" alt="GitHub Streak" height="150"/>
   </a>
   &nbsp; &nbsp; <!-- Adds space between the images -->
 <!--   <a href="https://github.com/Manish-Let-It-Be">
@@ -81,7 +81,7 @@
   </a>
   &nbsp; &nbsp; <!-- Adds space between the images --> 
   <a href="https://github.com/Manish-Let-It-Be">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=false&count_private=false" height="150"/>
   </a>
 </p>
 
