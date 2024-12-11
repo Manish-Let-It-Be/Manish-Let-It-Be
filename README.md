@@ -82,7 +82,7 @@
 
 <p align="center"> 
 <a href="https://git.io/streak-stats">
- <img src="https://streak-stats.demolab.com?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="180" />
+ <img src="https://manish-readme-streak-stats.vercel.app?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="180"/>
 </a>
  &nbsp; &nbsp; 
  <!--
