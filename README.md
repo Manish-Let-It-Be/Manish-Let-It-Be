@@ -14,7 +14,6 @@
 
 
 - 👋 I'm **Manish Prasad**
-- 🌥️ I’m currently working on **My Life**
 - 🔭 I’m Currently Pursuing **B.Tech in CSE_AI**
 - 🌱 I’m Currently Studying **Python**    
 - 🤝 I’m Looking To Collaborate On **AI Based Projects**    
