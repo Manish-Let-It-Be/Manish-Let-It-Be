@@ -17,7 +17,7 @@
 - 🌥️ I’m currently working on **My Life**
 - 🔭 I’m Currently Pursuing **B.Tech in CSE_AI**
 - 🌱 I’m Currently Studying **Python**    
-- 👯 I’m Looking To Collaborate On **AI Based Projects**    
+- 🤝 I’m Looking To Collaborate On **AI Based Projects**    
 - 💬 Ask me about **C, MS Office**    
 <!--- 📧 Reach Me: **m4manishp4prasad@gmail.com**-->
 
