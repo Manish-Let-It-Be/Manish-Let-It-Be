@@ -103,19 +103,31 @@
 
 
 
-## 📈Leetcode Stats
+## 📈Leetcode & RoadMap Stats
 <!--
 ![](https://leetcard.jacoblin.cool/manishxuranium?ext=heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manishxuranium?theme=wtf&font=Caveat%20Brush&ext=heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap)
 -->
 <p align="center">
-  <img width="830" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="260"/>
+  <a href="https://github.com/Manish-Let-It-Be">
+    <img width="400" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="240"/>
+  </a>
+  &nbsp; &nbsp;
+  <a href="https://roadmap.sh/u/m4manish">
+    <img width="550" src="https://roadmap.sh/card/wide/6579de3a5145316d25fbbe85?variant=dark&roadmaps=git-github%2Cjava%2Cfull-stack%2Cpython" alt="roadmap.sh" height="240"/>
+  </a>
 </p>
 
 
+
 ## 🏆 GitHub Trophies
+ <!--
 ![](https://github-profile-trophy.vercel.app/?username=Manish-Let-It-Be&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+-->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manish-Let-It-Be&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy"/>
+</div>
 
 
 ## ✍️ Random Dev Quote
