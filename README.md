@@ -111,11 +111,11 @@
 -->
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
-    <img width="350" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="240"/>
+    <img width="300" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="240"/>
   </a>
   &nbsp; &nbsp;
   <a href="https://roadmap.sh/u/m4manish">
-    <img width="450" src="https://roadmap.sh/card/wide/6579de3a5145316d25fbbe85?variant=dark&roadmaps=git-github%2Cjava%2Cfull-stack%2Cpython" alt="roadmap.sh" height="240"/>
+    <img width="500" src="https://roadmap.sh/card/wide/6579de3a5145316d25fbbe85?variant=dark&roadmaps=git-github%2Cjava%2Cfull-stack%2Cpython" alt="roadmap.sh" height="240"/>
   </a>
 </p>
 
