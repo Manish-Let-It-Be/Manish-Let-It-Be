@@ -165,10 +165,10 @@
 <a href="https://github.com/Manish-Let-It-Be"><img src="https://img.shields.io/badge/Check_out_my-GitHub-rblue?style=for-the-badge&logo=Opsgenie&logoColor=white"></a>
 </div>
 
-<!--
-### 🐍 Contribution snake
 
-![snake gif](https://github.com/Manish-Let-It-Be/Manish-Let-It-Be/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contributions
+
+![snake gif](https://github.com/Manish-Let-It-Be/Manish-Let-It-Be/blob/output/github-snake-dark.svg)
 
 <!--
 <picture>
