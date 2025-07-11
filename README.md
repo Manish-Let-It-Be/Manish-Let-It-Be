@@ -101,20 +101,25 @@
 -->
 
 <p align="center"> 
-<a href="https://manish-readme-streak-stats.vercel.app/demo/">
+<!-- <a href="https://manish-readme-streak-stats.vercel.app/demo/">
  <img src="https://manish-readme-streak-stats.vercel.app?user=Manish-Let-It-Be&theme=dracula" alt="GitHub Streak" height="180"/>
-</a>
- &nbsp; &nbsp; 
+</a> -->
+<!--  &nbsp; &nbsp;  -->
+
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Manish-Let-It-Be&theme=dracula&hide_border=false">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manish-Let-It-Be&theme=dracula&hide_border=false" alt="GitHub Streak" height="165"/>
+  </a>
+  &nbsp; &nbsp;
  <!--
   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://github-readme-stats.vercel.app/api?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=true&count_private=true" height="150"/>
   </a>
  -->
-  &nbsp; &nbsp;
   <a href="https://github.com/Manish-Let-It-Be">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Let-It-Be&layout=compact&theme=dracula&include_all_commits=false&count_private=false" height="180"/>
   </a>
 </p>
+
 
 
 <p align="center">
