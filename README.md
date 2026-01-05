@@ -137,7 +137,7 @@
 -->
 <p align="center">
   <a href="https://github.com/Manish-Let-It-Be">
-    <img width="300" src="https://leetcard.jacoblin.cool/manishxuranium?theme=nord&font=Caveat%20Brush&ext=heatmap" height="240"/>
+    <img width="300" src="https://leetcard.jacoblin.cool/ma9ish?theme=nord&font=Caveat%20Brush&ext=heatmap" height="240"/>
   </a>
   &nbsp; &nbsp;
   <a href="https://roadmap.sh/u/m4manish">   
