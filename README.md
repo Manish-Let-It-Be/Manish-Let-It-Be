@@ -74,6 +74,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-prasad-let-it-be/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/AchaaBachaa/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/manish_let_it_be)
+[![Google Developer](https://img.shields.io/badge/GDev-blue?logo=google&logoColor=white&style=flat)](https://g.dev/ma9ish)
+
 
 
 ## 📊 GitHub Stats
